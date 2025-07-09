@@ -7,7 +7,7 @@ KADS
    email: apoorvaammu26@gmail.com
    mobile: 9019666355
 3.K S Shravani:
-   email:ksshravani202gmail.com
+   email:ksshravani20@gmail.com
    mobile: 9353831006
 4.Darshan Durgada:
   email: darshandurgad@gmail.com
